@@ -1,4 +1,4 @@
 # Autolayout-Wrappers
 
-[Contribution guidelines for this project](docs/imgae0.png)
+[Contribution guidelines for this project](imgae0.png)
 
