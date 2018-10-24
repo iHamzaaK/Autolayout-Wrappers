@@ -1,4 +1,4 @@
 # Autolayout-Wrappers
 
-[Contribution guidelines for this project](imgae0.png)
+![alt text](https://github.com/kevinonik/Autolayout-Wrappers/master/image0.png)
 
